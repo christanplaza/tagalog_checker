@@ -1,0 +1,157 @@
+{
+  "greetings": [
+    "kamusta",
+    "magandang umaga",
+    "magandang hapon",
+    "magandang gabi",
+    "paalam",
+    "salamat",
+    "walang anuman",
+    "mabuhay"
+  ],
+  "common_phrases": [
+    "oo",
+    "hindi",
+    "paano",
+    "bakit",
+    "ano",
+    "sino",
+    "saan",
+    "kailan"
+  ],
+  "family": [
+    "pamilya",
+    "nanay",
+    "tatay",
+    "anak",
+    "kapatid",
+    "lola",
+    "lolo",
+    "tiyo",
+    "tiya",
+    "pinsan"
+  ],
+  "emotions": [
+    "saya",
+    "lungkot",
+    "galit",
+    "takot",
+    "gulat",
+    "pagmamahal",
+    "poot",
+    "pag-asa"
+  ],
+  "foods": [
+    "pagkain",
+    "kanin",
+    "ulam",
+    "isda",
+    "manok",
+    "baboy",
+    "gulay",
+    "prutas",
+    "tinapay"
+  ],
+  "places": [
+    "bahay",
+    "paaralan",
+    "ospital",
+    "palengke",
+    "kalsada",
+    "simbahan",
+    "opisina",
+    "pamilihan"
+  ],
+  "nature": [
+    "buwan",
+    "araw",
+    "bituin",
+    "puno",
+    "bundok",
+    "ilog",
+    "dagat",
+    "lawa"
+  ],
+  "body_parts": [
+    "ulo",
+    "mata",
+    "ilong",
+    "bibig",
+    "tainga",
+    "kamay",
+    "paa",
+    "katawan"
+  ],
+  "numbers": [
+    "isa",
+    "dalawa",
+    "tatlo",
+    "apat",
+    "lima",
+    "anim",
+    "pito",
+    "walo",
+    "siyam",
+    "sampu"
+  ],
+  "time": [
+    "oras",
+    "minuto",
+    "segundo",
+    "araw",
+    "buwan",
+    "linggo",
+    "taon"
+  ],
+  "days_of_the_week": [
+    "lunes",
+    "martes",
+    "miyerkules",
+    "huwebes",
+    "biyernes",
+    "sabado",
+    "linggo"
+  ],
+  "months": [
+    "enero",
+    "pebrero",
+    "marso",
+    "abril",
+    "mayo",
+    "hunyo",
+    "hulyo",
+    "agosto",
+    "setyembre",
+    "oktubre",
+    "nobyembre",
+    "disyembre"
+  ],
+  "colors": [
+    "pula",
+    "asul",
+    "dilaw",
+    "berde",
+    "itim",
+    "puti",
+    "kahel",
+    "violeta"
+  ],
+  "directions": [
+    "kaliwa",
+    "kanan",
+    "diretso",
+    "liko",
+    "paakyat",
+    "pababa"
+  ],
+  "miscellaneous": [
+    "buhay",
+    "pangarap",
+    "pag-ibig",
+    "kasal",
+    "kaibigan",
+    "trabaho",
+    "laro",
+    "kaligayahan"
+  ]
+}
