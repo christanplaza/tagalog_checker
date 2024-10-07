@@ -30,3 +30,13 @@ def check_file_for_tagalog_terms(file_path):
 
     # Check if any Tagalog word is in the content
     return any(word in content for word in tagalog_words)
+
+def check_string_for_tagalog_terms(input_string):
+    """Check if the input string contains any Tagalog terms."""
+    content = input_string.lower()
+
+    # Load the Tagalog terms from the JSON file
+    tagalog_words = load_tagalog_terms()
+
+    # Check if any Tagalog word is in the content
+    return any(word in content for word in tagalog_words)

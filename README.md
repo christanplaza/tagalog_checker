@@ -22,10 +22,10 @@ pip install -e .
 ```
 
 ## Usage
-After installation, you can use the package to check if a file contains any common Tagalog terms.
+After installation, you can use the package to check if a file or string contains any common Tagalog terms.
 
 ### Example Usage
-1. Import the package and call the function to check a file:
+1. Checking a file
 
 ```python
 from tagalog_checker.checker import check_file_for_tagalog_terms
@@ -39,16 +39,21 @@ result = check_file_for_tagalog_terms(file_path)
 # Print the result (True if Tagalog terms are found, False otherwise)
 print(result)
 ```
-2. Suppose you have a text file (`file.txt`) with the following content:
 
-```
-Kamusta! Kumain ka na ba?
-```
+2. Check a string:
 
-You can check if this file contains Tagalog words:
 ```python
-result = check_file_for_tagalog_terms("file.txt")
-print(result)  # Output will be True since 'Kamusta' is a Tagalog word
+from tagalog_checker.checker import check_string_for_tagalog_terms
+
+# Specify the string to be checked
+input_string = "Kamusta! Kumain ka na ba?"
+
+# Run the checker
+result = check_string_for_tagalog_terms(input_string)
+
+# Print the result (True if Tagalog terms are found, False otherwise)
+print(result)
+
 ```
 
 ## Contributing
